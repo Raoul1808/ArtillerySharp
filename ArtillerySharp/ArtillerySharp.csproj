@@ -6,4 +6,8 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="5.0.0-pre.6" />
+  </ItemGroup>
+
 </Project>
